@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learnwords/static/css/main.27be5f34.chunk.css",
+    "main.js": "/learnwords/static/js/main.100c66da.chunk.js",
+    "main.js.map": "/learnwords/static/js/main.100c66da.chunk.js.map",
+    "runtime-main.js": "/learnwords/static/js/runtime-main.82fb0c57.js",
+    "runtime-main.js.map": "/learnwords/static/js/runtime-main.82fb0c57.js.map",
+    "static/js/2.03f68a95.chunk.js": "/learnwords/static/js/2.03f68a95.chunk.js",
+    "static/js/2.03f68a95.chunk.js.map": "/learnwords/static/js/2.03f68a95.chunk.js.map",
+    "static/js/3.1d03da07.chunk.js": "/learnwords/static/js/3.1d03da07.chunk.js",
+    "static/js/3.1d03da07.chunk.js.map": "/learnwords/static/js/3.1d03da07.chunk.js.map",
+    "index.html": "/learnwords/index.html",
+    "static/css/main.27be5f34.chunk.css.map": "/learnwords/static/css/main.27be5f34.chunk.css.map",
+    "static/js/2.03f68a95.chunk.js.LICENSE.txt": "/learnwords/static/js/2.03f68a95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82fb0c57.js",
+    "static/js/2.03f68a95.chunk.js",
+    "static/css/main.27be5f34.chunk.css",
+    "static/js/main.100c66da.chunk.js"
+  ]
+}
